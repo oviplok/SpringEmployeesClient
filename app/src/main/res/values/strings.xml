@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SpringEmployeesClient</string>
+    <string name="employee_name_form">Employee\'s name</string>
+    <string name="location_form">Where is employee workin?</string>
+    <string name="employee_branch_form">Employee\'s branch</string>
+</resources>
